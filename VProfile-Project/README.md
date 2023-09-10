@@ -31,7 +31,7 @@ SQL Database
 
 ### Step 1 - [MYSQL Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/MYSQL%20Setup/Setup.md)
 ### Step 2 - [MEMCACHE Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/MEMCACHE-Setup/Setup.md)
-### Step 3 - RABBITMQ Setup
+### Step 3 - [RABBITMQ Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/RABBITMQ-Setup/Setup.md)
 ### Step 4 - TOMCAT Setup
 ### Step 5 - CODE BUILD & DEPLOY (app01)
 ### Step 6 - NGINX Setup
