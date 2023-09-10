@@ -1,4 +1,4 @@
-## TOMCAT SETUP
+## TOMCAT SETUP -App01
 
 - #### Login to the tomcat vm
 
