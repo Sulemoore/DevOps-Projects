@@ -1,3 +1,4 @@
+## NGINX SETUP
 - #### Login to the Nginx vm
 
 `$ vagrant ssh web01`
