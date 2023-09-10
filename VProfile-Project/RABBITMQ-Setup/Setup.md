@@ -1,20 +1,20 @@
-#### Login to the RabbitMQ vm
+- #### Login to the RabbitMQ vm
 
 `$ vagrant ssh rmq01`
 
-#### Verify Hosts entry, if entries missing update the it with IP and hostnames
+- #### Verify Hosts entry, if entries missing update the it with IP and hostnames
 
 `# cat /etc/hosts`
 
-#### Update OS with latest patches
+- #### Update OS with latest patches
 
 `# yum update -y`
 
-#### Set EPEL Repository
+- #### Set EPEL Repository
 
 `# yum install epel-release -y`
 
-#### Install Dependencies
+- #### Install Dependencies
 ```
 # sudo yum install wget -y
 # cd /tmp/
