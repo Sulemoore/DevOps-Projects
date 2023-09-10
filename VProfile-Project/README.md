@@ -41,3 +41,5 @@ SQL Database
 ### Step 4 - [TOMCAT Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/TOMCAT-Setup/Setup.md)
 ### Step 5 - [CODE BUILD & DEPLOY](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/CODE-BUILD-and-DEPLOY/Setup.md) (app01)
 ### Step 6 - [NGINX Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/NGINX-Setup/Setup.md)
+
+## Verify Website
