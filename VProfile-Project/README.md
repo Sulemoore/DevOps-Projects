@@ -2,7 +2,7 @@
 
 ## Flow of Execution
 - Setup prerequisites (check below)
-- Clone source code
+- [Clone source code](https://github.com/hkhcoder/vprofile-project.git)
 - cd into the vagrant dir
 - ring up the VM's
 - Validate
