@@ -1,3 +1,4 @@
+## RABBITMQ SETUP - rmq01
 - #### Login to the RabbitMQ vm
 
 `$ vagrant ssh rmq01`
