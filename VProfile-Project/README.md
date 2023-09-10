@@ -29,7 +29,7 @@ SQL Database
 
 ## Set Up (Should be completed in the below order)
 
-### Step 1 - MYSQL Setup
+### Step 1 - [MYSQL Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/MYSQL%20Setup/Setup.md)
 ### Step 2 - MEMCACHE Setup
 ### Step 3 - RABBITMQ Setup
 ### Step 4 - TOMCAT Setup
