@@ -1,6 +1,12 @@
 # VPROFILE PROJECT (MANUAL) OVERVIEW
 
-## PROVISIONING
+## Flow of Execution
+- Setup prerequisites (check below)
+- Clone source code
+- cd into the vagrant dir
+- ring up the VM's
+- Validate
+- Setup All the services
 
 ### Services
 - 1. Nginx:
