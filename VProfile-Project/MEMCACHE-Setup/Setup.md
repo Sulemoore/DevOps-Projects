@@ -1,4 +1,4 @@
-### Install, start & enable memcache on port 11211
+- #### Install, start & enable memcache on port 11211
 ```
 # sudo dnf install epel-release -y
 # sudo dnf install memcached -y
@@ -9,7 +9,7 @@
 # sudo systemctl restart memcached
 ```
 
-### Starting the firewall and allowing the port 11211 to access memcache
+- #### Starting the firewall and allowing the port 11211 to access memcache
 ```
 # firewall-cmd --add-port=11211/tcp
 # firewall-cmd --runtime-to-permanent
