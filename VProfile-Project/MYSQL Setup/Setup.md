@@ -1,4 +1,4 @@
-## MYSQL Setup - Db01
+## MYSQL Setup - db01
 - #### Login to the db vm
 
 `$ vagrant ssh db01`
