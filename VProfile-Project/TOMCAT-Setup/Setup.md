@@ -1,3 +1,5 @@
+## TOMCAT SETUP
+
 - #### Login to the tomcat vm
 
 `$ vagrant ssh app01`
