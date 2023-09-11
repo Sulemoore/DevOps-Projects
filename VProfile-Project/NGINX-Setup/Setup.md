@@ -43,4 +43,5 @@ proxy_pass http://vproapp;
 - #### Restart Nginx
 
 `# systemctl restart nginx`
+
 ![Screenshot 2023-09-11 005220](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/b24c0dbb-7a66-498b-a396-48c5696a2d30)
