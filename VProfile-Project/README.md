@@ -2,9 +2,9 @@
 
 ## Flow of Execution
 - Setup prerequisites (check below)
-- [Clone source code](https://github.com/hkhcoder/vprofile-project.git)
-- cd into the vagrant dir
-- Bring up the VM's
+- [Clone source code](https://github.com/hkhcoder/vprofile-project.git)(save localy on your computer)
+- `cd` into the vagrant dir
+- Bring up the VM's `vagrant up`
 - Validate
 - Setup All the services
 
