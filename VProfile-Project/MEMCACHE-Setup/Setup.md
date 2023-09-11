@@ -11,11 +11,5 @@
 ```
 ![Screenshot 2023-09-10 235235](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/95512810-b00a-4141-97aa-9847d9d2b91c)
 
-- #### Starting the firewall and allowing the port 11211 to access memcache
-```
-# firewall-cmd --add-port=11211/tcp
-# firewall-cmd --runtime-to-permanent
-# firewall-cmd --add-port=11111/udp
-# firewall-cmd --runtime-to-permanent
-# sudo memcached -p 11211 -U 11111 -u memcached -d
-```
+
+
