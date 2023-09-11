@@ -4,7 +4,7 @@
 - Setup prerequisites (check below)
 - [Clone source code](https://github.com/hkhcoder/vprofile-project.git)
 - cd into the vagrant dir
-- ring up the VM's
+- Bring up the VM's
 - Validate
 - Setup All the services
 
