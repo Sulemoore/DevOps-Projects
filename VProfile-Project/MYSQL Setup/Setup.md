@@ -85,6 +85,8 @@ Download Source code & Initialize Database.
 # mysql -u root -padmin123 accounts < src/main/resources/db_backup.sql
 # mysql -u root -padmin123 accounts
 ```
+To view the tables you created run;
+
 `mysql> show tables;`
 
 - #### Restart mariadb-server
