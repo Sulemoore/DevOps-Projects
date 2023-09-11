@@ -1,7 +1,9 @@
 ## MYSQL Setup - db01
 - #### Login to the db vm
+![Screenshot 2023-09-10 225706](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/f476f4d0-7f8d-41f7-9fc0-33a4895f500f)
 
 `$ vagrant ssh db01`
+![Screenshot 2023-09-10 225845](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/11c0cdf5-7225-40ca-8fab-3f33862f7d7a)
 
 - #### Verify Hosts entry, if entries missing update the it with IP and hostnames
 
