@@ -78,11 +78,3 @@ WantedBy=multi-user.target
 # systemctl start tomcat
 # systemctl enable tomcat
 ```
-- #### Enabling the firewall and allowing port 8080 to access the tomcat
-```
-# systemctl start firewalld
-# systemctl enable firewalld
-# firewall-cmd --get-active-zones
-# firewall-cmd --zone=public --add-port=8080/tcp --permanent
-# firewall-cmd --reload
-```
