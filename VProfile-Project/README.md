@@ -1,4 +1,5 @@
 # VPROFILE PROJECT (MANUAL) OVERVIEW
+This projects implements a Multi-Tier Web Application from your local machine. This is a precursor to other projects where we will be migrating the stack to AWS Cloud.
 
 ## Flow of Execution
 - Setup prerequisites (check below)
