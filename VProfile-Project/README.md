@@ -37,4 +37,4 @@ This projects implements a Multi-Tier Web Application from your local machine. T
 ### Step 5 - [CODE BUILD & DEPLOY](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/CODE-BUILD-and-DEPLOY/Setup.md) (app01)
 ### Step 6 - [NGINX Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/NGINX-Setup/Setup.md)
 
-## Verify Website
+## [Verify Website](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/Verify-Website.md)
