@@ -72,6 +72,8 @@ WantedBy=multi-user.target
 - #### Reload systemd files
 
 `# systemctl daemon-reload`
+![Screenshot 2023-09-11 003032](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/6113aedb-3e0a-48fb-a708-d612313aaaed)
+
 
 - #### Start & Enable service
 ```
