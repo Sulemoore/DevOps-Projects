@@ -22,7 +22,7 @@
 
 `# yum install git mariadb-server -y`
 
-- #### Starting & enabling mariadb-server
+- #### Starting & enable mariadb-server
 ```
 # systemctl start mariadb
 # systemctl enable mariadb
