@@ -50,12 +50,13 @@
 
 `# vi /etc/systemd/system/tomcat.service`
 
-- #### [Unit]
+- #### Copy and paste the below in the text editor
+
+```
+[Unit]
 Description=Tomcat
 After=network.target
-
-- #### [Service]
-
+[Service]
 User=tomcat
 WorkingDirectory=/usr/local/tomcat
 Environment=JRE_HOME=/usr/lib/jvm/jre
@@ -65,11 +66,9 @@ Environment=CATALINE_BASE=/usr/local/tomcat
 ExecStart=/usr/local/tomcat/bin/catalina.sh run
 ExecStop=/usr/local/tomcat/bin/shutdown.sh
 SyslogIdentifier=tomcat-%i
-
-- #### [Install]
-
+[Install]
 WantedBy=multi-user.target
-
+```
 - #### Reload systemd files
 
 `# systemctl daemon-reload`
