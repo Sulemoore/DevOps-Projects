@@ -8,15 +8,15 @@
 `# cat /etc/hosts`
 
 - #### Update OS with latest patches
-`# yum update -y`
+`# sudo yum update -y`
 
 - #### Set Repository
 
-`# yum install epel-release -y`
+`# sudo yum install epel-release -y`
 
 - #### Install Maria DB Package
 
-`# yum install git mariadb-server -y`
+`# sudo yum install git mariadb-server -y`
 
 - #### Starting & enabling mariadb-server
 ```
