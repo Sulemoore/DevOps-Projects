@@ -88,6 +88,7 @@ Download Source code & Initialize Database.
 To view the tables you created run;
 
 `mysql> show tables;`
+
 ![Screenshot 2023-09-10 234511](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/29f422d3-f8fb-45b9-b5f1-08eb990efd09)
 
 - #### Restart mariadb-server
