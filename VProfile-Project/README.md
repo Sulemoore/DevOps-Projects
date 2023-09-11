@@ -9,18 +9,12 @@
 - Setup All the services
 
 ### Services
-- 1. Nginx:
-Web Service
-- 2. Tomcat
-Application Server
-- 3. RabbitMQ
-Broker/Queuing Agent
-- 4. Memcache
-DB Caching
-- 5. ElasticSearch
-Indexing/Search service
-- 6. MySQL
-SQL Database
+- 1. Nginx: Is going to be used for Web Service
+- 2. Tomcat: Will be used for Application Server
+- 3. RabbitMQ: Will be the Broker/Queuing Agent
+- 4. Memcache: DB Caching
+- 5. ElasticSearch: Indexing/Search service
+- 6. MySQL: SQL Database
 
 
 ## Architecture Diagram
