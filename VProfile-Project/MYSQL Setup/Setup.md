@@ -70,10 +70,13 @@ will take effect immediately.
 - #### Set DB name and users.
 
 `# mysql -u root -padmin123`
-mysql> create database accounts;
-mysql> grant all privileges on accounts.* TO 'admin'@’%’ identified by 'admin123' ;
-mysql> FLUSH PRIVILEGES;
-mysql> exit;
+- #### SQL commands
+
+mysql> `create database accounts;`
+mysql> `grant all privileges on accounts.* TO 'admin'@’%’ identified by 'admin123' ;`
+mysql> `FLUSH PRIVILEGES;`
+mysql> `exit;`
+
 Download Source code & Initialize Database.
 
 ```
