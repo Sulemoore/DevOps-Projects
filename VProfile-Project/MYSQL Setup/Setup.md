@@ -72,10 +72,10 @@ will take effect immediately.
 `# mysql -u root -padmin123`
 - #### SQL commands
 
-mysql> `create database accounts;`
-mysql> `grant all privileges on accounts.* TO 'admin'@’%’ identified by 'admin123' ;`
-mysql> `FLUSH PRIVILEGES;`
-mysql> `exit;`
+- mysql> `create database accounts;`
+- mysql> `grant all privileges on accounts.* TO 'admin'@’%’ identified by 'admin123' ;`
+- mysql> `FLUSH PRIVILEGES;`
+- mysql> `exit;`
 
 Download Source code & Initialize Database.
 
