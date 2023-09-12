@@ -38,3 +38,7 @@ This projects implements a Multi-Tier Web Application from your local machine. T
 ### Step 6 - [NGINX Setup](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/NGINX-Setup/Setup.md)
 
 ## [Verify Website](https://github.com/Sulemoore/DevOps-Projects/blob/main/VProfile-Project/Verify-Website.md)
+
+### CLEAN UP
+- To clean up run `vagrant destroy` to destroy all the servers.
+- If you want to come back and continue the next project, you can run `vagrant halt` to halt all servers .
