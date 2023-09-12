@@ -37,3 +37,6 @@
 
 ## CONGRATULATIONS, YOU HAVE JUST AUTOMATED THE DEPLOYMENT
 
+### CLEAN UP
+- To clean up run `vagrant destroy` to destroy all the servers.
+- If you want to come back and continue the next project, you can run `vagrant halt` to halt all servers .
