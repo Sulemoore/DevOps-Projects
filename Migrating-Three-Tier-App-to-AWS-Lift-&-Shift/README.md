@@ -3,7 +3,8 @@
 In this project we are going to lift and shift a web application hosted locally on our machine (this could be on premise of data center) to AWS.  Instead of running our workload in our data center, we run it on a cloud computing platform that we don't pay for the upfront cost for procuring the resource. We pay as we go based on consumption of infrastructure as a service. We get flexibility, elasticity, scalability,and cost control.
 
 ### Architecture Diagram
-![AWS Lift Shift project](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/fa40fabe-3052-45cb-84f5-9c407b5edc20)
+[diagram.drawio (1).pdf](https://github.com/Sulemoore/DevOps-Projects/files/12593570/diagram.drawio.1.pdf)
+
 
 
 ### AWS Services
