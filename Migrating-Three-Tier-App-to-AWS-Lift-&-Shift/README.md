@@ -3,7 +3,8 @@
 In this project we are going to lift and shift a web application hosted locally on our machine (this could be on premise of data center) to AWS.  Instead of running our workload in our data center, we run it on a cloud computing platform that we don't pay for the upfront cost for procuring the resource. We pay as we go based on consumption of infrastructure as a service. We get flexibility, elasticity, scalability,and cost control.
 
 ### Architecture Diagram
-[diagram.drawio (1).pdf](https://github.com/Sulemoore/DevOps-Projects/files/12593570/diagram.drawio.1.pdf)
+![diagram drawio](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/e6f17381-a94d-4706-9651-4d7acec2c10f)
+
 
 
 
