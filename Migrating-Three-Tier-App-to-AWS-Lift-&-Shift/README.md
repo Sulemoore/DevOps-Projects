@@ -3,9 +3,18 @@
 In this project we are going to lift and shift a web application hosted locally on our machine (this could be on premise of data center) to AWS.  Instead of running our workload in our data center, we run it on a cloud computing platform that we don't pay for the upfront cost for procuring the resource. We pay as we go based on consumption of infrastructure as a service. We get flexibility, elasticity, scalability,and cost control.
 
 ### Architecture Diagram
+
+- #### Local or On-Prem Stack
+  
+![Vprofile projectsetup Manual](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/a1fd71ad-2681-445e-97c0-1192abae932d)
+
+- #### AWS Stack
+  
 ![diagram drawio](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/e6f17381-a94d-4706-9651-4d7acec2c10f)
 
+- #### Lift & Shift Architecture
 
+![lift and shift](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/2ed0e316-596e-4bdc-85c2-a05386cf635a)
 
 
 ### AWS Services
