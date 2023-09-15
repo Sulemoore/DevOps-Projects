@@ -29,7 +29,7 @@ In this project we are going to lift and shift a web application hosted locally 
 
 ### Flow of Execution
 - Login to AWS Account
-- Create Key Pairs
+- [Create Key Pairs](https://www.udemy.com/course/devopsprojects/)
 - Create Security groups
 - Launch Instances with user data
 - Update IP to name mapping in route 53
