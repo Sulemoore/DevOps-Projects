@@ -29,7 +29,7 @@ In this project we are going to lift and shift a web application hosted locally 
 
 ### Flow of Execution
 - Login to AWS Account
-- [Create Key Pairs]([https://www.udemy.com/course/devopsprojects/](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-Key-Pairs/Key-pair-setup.md))
+- [Create Key Pairs]([https://www.udemy.com/course/devopsprojects/](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-Key-Pairs/Key-pair-setup.md)
 - [Create Security groups](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-Security-Groups/security-group.md)
 - [Launch Instances with user data](https://github.com/Sulemoore/DevOps-Projects/tree/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-EC2-Instances)
 - Update IP to name mapping in route 53
