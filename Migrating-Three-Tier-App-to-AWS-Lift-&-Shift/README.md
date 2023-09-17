@@ -35,7 +35,7 @@ Rehosting involves moving applications from the on-premises environment to the c
 - [Create Security groups](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-Security-Groups/security-group.md)
 - [Launch Instances with user data](https://github.com/Sulemoore/DevOps-Projects/tree/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Create-EC2-Instances)
 - [Update IP to name mapping in route 53](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Route-53%3DName-Mapping/Name-mapping.md)
-- Build application from source code
+- [Build application from source code](https://github.com/Sulemoore/DevOps-Projects/blob/main/Migrating-Three-Tier-App-to-AWS-Lift-%26-Shift/Build-Artifact-in-S3/Build-Artifact.md)
 - Upload artifact to S3
 - Download Artifact to Tomcat EC2 Instance
 - Setup ELB with HTTPS
