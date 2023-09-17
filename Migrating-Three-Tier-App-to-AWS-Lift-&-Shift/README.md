@@ -1,6 +1,8 @@
 # Lift & Shift - Migrating a 3-Tier Web App to AWS
 
-In this project we are going to lift and shift a web application hosted locally on our machine (this could be on premise of data center) to AWS.  Instead of running our workload in our data center, we run it on a cloud computing platform that we don't pay for the upfront cost for procuring the resource. We pay as we go based on consumption of infrastructure as a service. We get flexibility, elasticity, scalability,and cost control.
+In this project we are going to lift and shift (Rehost) a web application hosted locally on our machine (this could be on premise of data center) to AWS.  Instead of running our workload in our data center, we run it on a cloud computing platform that we don't pay for the upfront cost for procuring the resource. We pay as we go based on consumption of infrastructure as a service. We get flexibility, elasticity, scalability,and cost control.
+
+Rehosting involves moving applications from the on-premises environment to the cloud without modification. It is used mostly to migrate large-scale applications to satisfy specific business goals, such as launching a product in an accelerated timeline or exiting an on-premises data center.
 
 ### Architecture Diagram
 
