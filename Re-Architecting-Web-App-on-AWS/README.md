@@ -18,7 +18,7 @@ For this project we will be using PAAS (platform as a service) and SAAS (softwar
 
 
 
-- ### AWS Services
+### AWS Services
 
 - Elastic Beanstalk
 - RDS
@@ -30,7 +30,7 @@ For this project we will be using PAAS (platform as a service) and SAAS (softwar
 - EC2
   
 
-- ### Flow of Execution
+### Flow of Execution
 
 - Login to AWS Account
 - Create Key-pair for Beanstalk Instance login
