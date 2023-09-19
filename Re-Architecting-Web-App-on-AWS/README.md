@@ -30,6 +30,7 @@ For this project we will be using PAAS (platform as a service) and SAAS (softwar
 - EC2
   
 
+
 ### Flow of Execution
 
 - Login to AWS Account
