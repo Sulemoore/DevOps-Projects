@@ -13,7 +13,7 @@ Step 2:
 
 
 Step 3:
-- Create Database: QDgUUckvTmUxMMm0zrIw
+- Create Database: QDgUUckvTmUxMMm0zrIw  vprofile-rds-mysql.chph7is36s1o.us-east-1.rds.amazonaws.com
 
 ![Screenshot 2023-09-20 at 10 55 24 PM](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/dad77af2-1cbc-4668-bdcb-23c3cc7d3698)
 
