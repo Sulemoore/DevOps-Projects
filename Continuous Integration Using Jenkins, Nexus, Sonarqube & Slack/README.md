@@ -12,7 +12,6 @@
 - Slack
 
 ### Continuous Integration Flow
-
 ![Continuous Integration Using Jenkins,Nexus,Sonarqube  Slack](https://github.com/Sulemoore/DevOps-Projects/assets/101164153/ac99a77c-bb12-495a-9383-b7f05f6b19eb)
 
 
