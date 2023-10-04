@@ -132,3 +132,12 @@ echo "System reboot in 30 sec"
 sleep 30
 reboot
 ```
+
+### Post Installation Configuration
+
+- Go to browser, `http://<public_ip_of_sonar_server>`
+
+```
+username: admin
+password : admin
+```
