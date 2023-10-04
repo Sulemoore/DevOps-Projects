@@ -6,6 +6,10 @@ In this article, we'll explore how to streamline development workflow by setting
 ## Architecture
 
 
+
+https://github.com/Sulemoore/DevOps-Projects/assets/101164153/fdb5a4b3-6cb4-45f9-83b4-01d94d543f07
+
+
 ## Continuous Integration 
 
 Continuous Integration is a software development practice where code changes are automatically built, tested, and integrated into a shared repository multiple times a day. This practice enables developers to identify and fix issues early in the development cycle, reducing the risk of integration problems and improving overall code quality.
