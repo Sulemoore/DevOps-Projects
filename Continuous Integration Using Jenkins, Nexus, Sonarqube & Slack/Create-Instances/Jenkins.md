@@ -27,3 +27,29 @@ sudo apt-get update
 sudo apt-get install jenkins -y
 ###
 ```
+
+### Post Installation Configuration
+
+- Copy the public IP of the Jenkins server and ssh into the server to check the status. Run the below commands.
+
+```
+sudo -i
+system status jenkins
+```
+- The server should be running at this time
+- Paste the Public IP of the Jenkins server in the url and append the port number (e.g 172.23.6.137:8080).
+- This should take you to the Jenkins page.
+- Copy the path and to to the terminal and run the below to get the password to login.
+
+`cat /var/lib/jenkins/secrets/initialAdminPassword`
+
+- Install suggested plugins and then sign up on the next page.
+- Add the following plugins:
+  ```
+  Maven Integration
+  Github Integration
+  Nexus Artifact uploader
+  Sonarqube Scanner
+  Slack notification
+  Build timestamp
+  ```
