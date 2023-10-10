@@ -30,3 +30,67 @@ Because of the regular commits and/or pull requests, their will be dependency of
 - SonarCloud
 - CheckStyle for code analysis
 - Code Pipiline to integrate all jobs together 
+
+### Flow of Execution
+
+- Login to AWS Account
+
+- Code Commit
+
+      . Create code commit repo
+      
+      . Create IAM user with code commit policy
+      
+      . Generate ssh keys locally
+      
+      . Exchange keys with IAM user
+      
+      . Put source code from Github repo to Code Commit repository and push
+
+- Code Artifact
+
+        . Create an IAM user with code artifact access
+        
+        . Install AWS CLI and configure
+        
+        . Export Auth token
+        
+        . Update settings.xml file in source code top level directory with details
+        
+        . Update pom.xml file with repo details
+
+- Sonar cloud
+
+        . Create sonar cloud account
+        
+        . Generate token
+        
+        . Create SSM parameters with sonar details
+        
+        . create Build project
+        
+        . Update code build role to access SSM parameter store
+
+- Create notifications for SNS or Slack
+
+- Build Project
+
+        . Update pom.xml with artifact version with timestamp
+        
+        . Create variables in SSm => parameter store
+        
+        . Create Build Project
+        
+        . Update code build role to access SSm parameter store
+
+- Create Pipeline
+
+        . Codecommit
+        
+        . Test Code
+        
+        . Build
+        
+        . Deploy to S3 Bucket
+
+- Test Pipeline
