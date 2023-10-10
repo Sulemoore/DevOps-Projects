@@ -18,4 +18,15 @@ Because of the regular commits and/or pull requests, their will be dependency of
 - Regular build and test for every commit. Instead of waiting to complete the code before discovering bugs, regular commits are made during the code writing to discover and fix bugs if any.
 - Automated build and release process instead of manual process.
 - Developer should get notified automatically if their is any code error or test failure.
-- 
+
+### Architecture
+
+### AWS Services Utilized
+
+- Code Commit for version control
+- Code Artifact for Maven Repository for Dependencies
+- Code Build to run our build process and also code analysis
+- Code Deploy to deploy our artifact stored in S3.
+- SonarCloud
+- CheckStyle for code analysis
+- Code Pipiline to integrate all jobs together 
